@@ -98,7 +98,7 @@ Automatización + mantenimiento (Airflow / Git)
 | 5      | Minería de Datos y Clustering Biológico\*           | 8 h      |
 | 6      | Modelos Predictivos con ML\*                        | 10 h     |
 | 7      | Automatización y Ciclo de Vida de Modelos           | 6 h      |
-| 8      | Proyecto final aplicado: HIM-Gatún                  | 8–12 h   |
+| 8      | Proyecto final aplicado                             | 8–12 h   |
 
 **Duración total: 60 horas (6–8 semanas, sesiones de 6–8 h semanales)**
 
